@@ -1,0 +1,202 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AxisRestrictionPlacementProcessor" preserve="all" />
+    <type fullname="ChargePacketDistributor" preserve="all" />
+    <type fullname="ChargePacketSender" preserve="all" />
+    <type fullname="ColorSO" preserve="all" />
+    <type fullname="ContextDataContainer" preserve="all" />
+    <type fullname="Conveyor" preserve="all" />
+    <type fullname="ConveyorMatDriver" preserve="all" />
+    <type fullname="CreatableController" preserve="all" />
+    <type fullname="CreatableTimer" preserve="all" />
+    <type fullname="DefaultCreatable" preserve="all" />
+    <type fullname="DeltaTimeReference" preserve="all" />
+    <type fullname="DynamicDimensionStretchPlacementProcessor" preserve="all" />
+    <type fullname="EditorPlaceableTransmitter" preserve="all" />
+    <type fullname="EnergyGenerator" preserve="all" />
+    <type fullname="EnergyNodeAutoConnector" preserve="all" />
+    <type fullname="EnergyNodeFinder" preserve="all" />
+    <type fullname="EnergyNodeManualConnector" preserve="all" />
+    <type fullname="EnergySpreadController" preserve="all" />
+    <type fullname="ExponentialReciprocalChargeController" preserve="all" />
+    <type fullname="Extractable" preserve="all" />
+    <type fullname="Extractor" preserve="all" />
+    <type fullname="ForceTorqueEffect" preserve="all" />
+    <type fullname="GeneralRefreshEvent" preserve="all" />
+    <type fullname="GeneratorChargeVisuals" preserve="all" />
+    <type fullname="GeneratorEnergyUpgradeListener" preserve="all" />
+    <type fullname="GeneratorPersistenceHandler" preserve="all" />
+    <type fullname="GravityReplacementEffect" preserve="all" />
+    <type fullname="GridPlacementProcessor" preserve="all" />
+    <type fullname="Highlightable" preserve="all" />
+    <type fullname="Isolatable" preserve="all" />
+    <type fullname="LayerRestriction" preserve="all" />
+    <type fullname="MassReplacementEffect" preserve="all" />
+    <type fullname="MaterialColorReplacementEffect" preserve="all" />
+    <type fullname="MaterialManager" preserve="all" />
+    <type fullname="MaterialPairs" preserve="all" />
+    <type fullname="Modification" preserve="all" />
+    <type fullname="ModificationContainer" preserve="all" />
+    <type fullname="ModificationSO" preserve="all" />
+    <type fullname="MultiplierChargeController" preserve="all" />
+    <type fullname="NeverRestriction" preserve="all" />
+    <type fullname="NodeFinderRangeUpgradeListener" preserve="all" />
+    <type fullname="NodeFinderVisuals" preserve="all" />
+    <type fullname="NodeHighlighter" preserve="all" />
+    <type fullname="OutlineColorController" preserve="all" />
+    <type fullname="OutlineController" preserve="all" />
+    <type fullname="PacketConnectionVisual" preserve="all" />
+    <type fullname="PacketConnectionVisualizer" preserve="all" />
+    <type fullname="PacketDistributorSummaryService" preserve="all" />
+    <type fullname="PhysicMaterialModificationComponent" preserve="all" />
+    <type fullname="Placeable" preserve="all" />
+    <type fullname="PlaceablePreview" preserve="all" />
+    <type fullname="PlaceableSaleSupplyPriceRestriction" preserve="all" />
+    <type fullname="PlaceableSupplyPriceRestriction" preserve="all" />
+    <type fullname="PlaceableTransmitter" preserve="all" />
+    <type fullname="PlaceableUpgradeLevelRestriction" preserve="all" />
+    <type fullname="PlacementCollisionRestriction" preserve="all" />
+    <type fullname="PlacementExtractionAdjacentRestriction" preserve="all" />
+    <type fullname="PlacementRestrictionPlacementProcessor" preserve="all" />
+    <type fullname="PlacementSnappedRestriction" preserve="all" />
+    <type fullname="PlacementSO" preserve="all" />
+    <type fullname="PreviewNodeHighlighter" preserve="all" />
+    <type fullname="RandomRestriction" preserve="all" />
+    <type fullname="RayCreationEffect" preserve="all" />
+    <type fullname="RayNormalCreationEffect" preserve="all" />
+    <type fullname="ReceiverNode" preserve="all" />
+    <type fullname="RendererMaterialModificationComponent" preserve="all" />
+    <type fullname="Resource" preserve="all" />
+    <type fullname="ResourceReplacementEffect" preserve="all" />
+    <type fullname="ResourceTypeRestriction" preserve="all" />
+    <type fullname="RigidBodyAffectorContainer" preserve="all" />
+    <type fullname="RigidBodyAffectorModification" preserve="all" />
+    <type fullname="SaleController" preserve="all" />
+    <type fullname="SaveableObject" preserve="all" />
+    <type fullname="ScaleSpringListener" preserve="all" />
+    <type fullname="Selectable" preserve="all" />
+    <type fullname="SelectableSquasher" preserve="all" />
+    <type fullname="SenderNode" preserve="all" />
+    <type fullname="SingleLevelTransparentizable" preserve="all" />
+    <type fullname="SizeReplacementEffect" preserve="all" />
+    <type fullname="SnapPlacementProcessor" preserve="all" />
+    <type fullname="SnapTarget" preserve="all" />
+    <type fullname="SpawnPoint" preserve="all" />
+    <type fullname="SpringAnimator" preserve="all" />
+    <type fullname="SpringController" preserve="all" />
+    <type fullname="SpringFloatDriver" preserve="all" />
+    <type fullname="StickRigidBodyAffector" preserve="all" />
+    <type fullname="StorageChargeVisuals" preserve="all" />
+    <type fullname="SupplyPriceRestriction" preserve="all" />
+    <type fullname="TargetCreationEffect" preserve="all" />
+    <type fullname="Transparentizable" preserve="all" />
+    <type fullname="TriggerAffector" preserve="all" />
+    <type fullname="Upgradeable" preserve="all" />
+    <type fullname="UpgradeData" preserve="all" />
+    <type fullname="Utility.Scripts.FaceCamera" preserve="all" />
+    <type fullname="Utility.Scripts.Particles.ParticleBurstScaleSetter" preserve="all" />
+    <type fullname="Utility.Scripts.Particles.ParticleEmissionRateScaleSetter" preserve="all" />
+    <type fullname="Utility.Scripts.RotationAnimator" preserve="all" />
+    <type fullname="Utility.Scripts.StartScaleZEvent" preserve="all" />
+    <type fullname="Utility.Scripts.UnityLineRenderer.LineAlphaAnimator" preserve="all" />
+    <type fullname="Utility.Scripts.UnityLineRenderer.LinePointAnimator" preserve="all" />
+    <type fullname="Utility.Scripts.UnityLineRenderer.NoisePointGenerator" preserve="all" />
+    <type fullname="Utility.Scripts.UpdateEvent" preserve="all" />
+    <type fullname="Viewable" preserve="all" />
+    <type fullname="ViewSelectionActions" preserve="all" />
+    <type fullname="VolumeEnergyConverter" preserve="all" />
+    <type fullname="ZWriteBlocker" preserve="all" />
+    <type fullname=".ContextData" preserve="nothing" serialized="true" />
+    <type fullname=".ExtractionData" preserve="nothing" serialized="true" />
+    <type fullname=".PlacementData" preserve="nothing" serialized="true" />
+    <type fullname=".ResourceData" preserve="nothing" serialized="true" />
+    <type fullname=".SpringAnimator/SpringAnimationData" preserve="nothing" serialized="true" />
+    <type fullname=".AssetRefContainer`1" preserve="nothing" serialized="true" />
+    <type fullname=".KeyCodeCombinationData" preserve="nothing" serialized="true" />
+    <type fullname=".KeyCodeData" preserve="nothing" serialized="true" />
+    <type fullname=".ModificationData" preserve="nothing" serialized="true" />
+    <type fullname=".PreviewRendererData" preserve="nothing" serialized="true" />
+    <type fullname=".UpgradeInfo" preserve="nothing" serialized="true" />
+    <type fullname="Utility.Scripts.SerializableDictionary`2" preserve="nothing" serialized="true" />
+    <type fullname="Utility.Scripts.TypeReference" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Outline" preserve="all" />
+    <type fullname=".Outline/ListVector3" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.PhysicMaterial" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphValueRecord" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
